@@ -1,0 +1,38 @@
+.box1{
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+}
+
+.box2{
+  background-color: skyblue;
+  width: 50%;
+  height: 50%;
+
+    /* border-width: 2px;
+  border-style: solid;
+  border-color: blue; */
+  
+  /* ↓３つをあわせたもの↓ */
+  
+  /* border: 2px solid; */
+  
+  /* 点線 */
+  /* border: 2px dashed blue; */
+  
+  /* 上下に点線 */
+  /* border-top: 2px dashed blue;
+  border-bottom: 2px dashed blue; */
+  
+  /* 下だけ線なし */
+  /* border: 2px solid blue;
+  border-bottom: none; */
+  
+  /* 丸みの線 */
+  border: 2px solid;
+  border-radius:10px ;
+}
+
+.box3{
+  background-color: tomato;
+}
